@@ -210,9 +210,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2652f89b970c90445b4140a3d0e06ab6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cantidadDeUnidades: 2
-  dias: 10
-  diaslluvia: 5
+  cantidadDeUnidades: 7
+  dias: 12
+  diaslluvia: 8
 --- !u!4 &516994904
 Transform:
   m_ObjectHideFlags: 0
